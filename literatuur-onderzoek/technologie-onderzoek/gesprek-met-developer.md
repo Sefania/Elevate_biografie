@@ -12,7 +12,7 @@ description: >-
 * Have we tested other ways to measure stairs?
   * Dat weet ik niet
 * Can we use the data of the barometer, accelerometer and other sensors to measure the stairs etc? \(not via healthkit\)
-  * We kunnen geen gegevens vragen van de barometer dit kan alleen via de Healthkit. We kunnen we de gegevens opvragen van de accelerometer en GPS.
+  * We kunnen geen gegevens vragen van de barometer dit kan alleen via de Healthkit. We kunnen wel de gegevens opvragen van de accelerometer en GPS.
 * How did the first version of Elevate measure stairs? \(the really old one\)
   * Met de beacons
 * Why did we stop using iBeacons?

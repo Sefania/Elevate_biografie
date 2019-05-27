@@ -12,7 +12,7 @@ Uit recent onderzoek \(Rijksinstituut voor Volksgezondheid en Milieu, n.d.-a\) b
 
 Zoals u in afbeelding \[..\] kunt zien voldoet bijna de helft van de volwassenen tussen 18 en 64 jaar aan de beweegrichtlijn 2017. 
 
-![Afbeeldin \[..\]](../../.gitbook/assets/grafiek_beweegrichtlijn-2017-2.png)
+![Afbeelding \[..\]](../../.gitbook/assets/grafiek_beweegrichtlijn-2017-2.png)
 
 Zoals u in de bovenstaande afbeelding kunt zien is het percentage dat voldoet aan de beweegrichtlijn nagenoeg gelijk voor mannen en vrouwen die volwassen zijn. 
 
@@ -32,7 +32,7 @@ De beweegrichtlijn voor volwassenen en ouderen is als volgt:
 Van Rijn et al. \(2017\) verteld over de verschillende intensiteit van bewegen. Sporten en bewegen kan namelijk met verschillende intensiteit. Hardlopen is intensiever dan wandelen en traplopen is meestal intensiever dan yoga. De intensiteit van bewegen kan je verdelen over 3 categorieën.
 
 * Licht intensieve lichamelijke activiteit: er is geen sprake van verhoogde hartslag of versnelde ademhaling. Voorbeelden hiervan zijn afwassen, musiceren, klussen in huis of bijvoorbeeld yoga.
-* Matig intensieve lichamelijke activiteit zorgt voor een verhoogde hartslaf en een versnelde ademhaling. Voorbeelden van matig intensieve activiteiten zijn wandelen, fietsen, trampoline springen en traplopen .
+* Matig intensieve lichamelijke activiteit zorgt voor een verhoogde hartslag en een versnelde ademhaling. Voorbeelden van matig intensieve activiteiten zijn wandelen, fietsen, trampoline springen en traplopen .
 * Zwaar intensieve activiteiten zorgt ervoor dat je gaat zweten en buiten adem raakt. Voorbeelden hiervan zijn voetbal, hockey, hardlopen, squash of wielrennen.
 
 Stilzitten \(zitgedrag\) is een aparte categorie, waarbij je helemaal niet beweegt. Hieronder vallen alle activiteiten waarbij je niet of nauwelijks meer energie verbruikt dan in rust. Voorbeelden hiervan zijn activiteiten die je zittend of liggend uitvoert zoals lezen, TV kijken, computeren, gamen of studeren.

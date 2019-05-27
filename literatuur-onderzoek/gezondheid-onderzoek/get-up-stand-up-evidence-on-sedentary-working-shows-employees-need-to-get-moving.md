@@ -36,8 +36,6 @@ Dr James Levine, professor of medicine at the Mayo Clinic, told delegates that s
 
 ### Variation in metabolic rate at work depending on activity, per day
 
-[Untitled](https://www.notion.so/0ccdf03a30db4b2ea203fd729b65635f)
-
 Dr Jason Gill of the British Heart Foundation Glasgow Cardiovascular Research Centre, said observational studies showed the increased cardio-metabolic risks of too much sitting \(Wilmot et al. 2012\), including:
 
 * all-cause mortality &gt;49%;
