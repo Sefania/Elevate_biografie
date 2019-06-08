@@ -8,11 +8,11 @@ description: Hier lees je de antwoorden op al mijn onderzoeksvragen.
 
 Uit recent onderzoek \(Rijksinstituut voor Volksgezondheid en Milieu, n.d.-a\) blijkt dat slechts 44% van de Nederlandse bevolking van 4 jaar en ouder voldoet aan de Beweegrichtlijn 2017.
 
-![Afbeelding 24](../../.gitbook/assets/grafiek_beweegroichtlijn-2017.png)
+![Afbeelding 24](../../../.gitbook/assets/grafiek_beweegroichtlijn-2017.png)
 
 Zoals u in afbeelding \[..\] kunt zien voldoet bijna de helft van de volwassenen tussen 18 en 64 jaar aan de beweegrichtlijn 2017. 
 
-![Afbeelding 25](../../.gitbook/assets/grafiek_beweegrichtlijn-2017-2.png)
+![Afbeelding 25](../../../.gitbook/assets/grafiek_beweegrichtlijn-2017-2.png)
 
 Zoals u in de bovenstaande afbeelding kunt zien is het percentage dat voldoet aan de beweegrichtlijn nagenoeg gelijk voor mannen en vrouwen die volwassen zijn. 
 
@@ -51,9 +51,9 @@ Het stimuleren van traplopen heeft na 12 weken al een positief effect op fitheid
 
 De MET-waarde van traplopen is 4 wanneer je langzaam de trap op gaat en 8,8 als je snel de trap op gaat. Onderstaande illustratie \(Beck & Van Brussel-Visser, 2016\) geeft in een tabel een duidelijk beeld hoeveel calorieën je verbrand met traplopen. Zie afbeelding \[..\].
 
-![](../../.gitbook/assets/met-waardes-1.png)
+![](../../../.gitbook/assets/met-waardes-1.png)
 
-![Afbeelding 26](../../.gitbook/assets/met-waardes-2.png)
+![Afbeelding 26](../../../.gitbook/assets/met-waardes-2.png)
 
 Engbers \(2007\) onderzocht hoe je mensen kon stimuleren om vaker de trap te nemen en hij concludeert dat het aantrekkelijk maken van het trappenhuis, het verhogen van de wachttijd bij de lift en voetstapjes naar de trap op de grond plakken, hielpen bij het stimuleren van traplopen.
 

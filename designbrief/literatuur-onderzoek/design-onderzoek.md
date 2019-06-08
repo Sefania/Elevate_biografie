@@ -8,7 +8,7 @@ Persuasive design kan helpen om een design meer effectief, leuk en interactief t
 
 Steeds vaker zijn er artikelen te lezen dat gamification invloed heeft op gedrags verandering. Gamification is een tool om gewenst gedrag te motiveren. Motivatie is een belangrijk onderdeel van gamification, omdat dit de reden is waarom mensen iets doen. Ik heb tijdens mijn onderzoek een aantal onderzoeken en artikelen gelezen. De volgende PDF's hebben mij geholpen om te begrijpen hoe gamification kan helpen om gedrag te veranderen.
 
-{% file src="../.gitbook/assets/gamification.pdf" caption="Gamification & behaviour" %}
+{% file src="../../.gitbook/assets/gamification.pdf" caption="Gamification & behaviour" %}
 
-{% file src="../.gitbook/assets/gamificationforbehaviorchange\_lessonsfromdevelopingasocialmultiuserweb-tabletbasedpreventiongamefory.pdf" %}
+{% file src="../../.gitbook/assets/gamificationforbehaviorchange\_lessonsfromdevelopingasocialmultiuserweb-tabletbasedpreventiongamefory.pdf" %}
 
