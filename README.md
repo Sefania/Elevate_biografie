@@ -6,5 +6,5 @@
 | Studentnummer | 500680530 |
 | Opleiding | Communication & Multimedia Design |
 | Afstudeerbegeleider | Mariska van Walsum |
-| Datum |  |
+| Datum | 7 juni 2018 |
 
