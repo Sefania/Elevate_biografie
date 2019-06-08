@@ -29,5 +29,13 @@ description: >-
 
 ## Persoon \#3
 
-
+* Staat op voor daily meeting en gaat daarna drinken halen met collega's
+* Staat een aantal keer op van bureau
+* Is heel gefocust op werk
+* Staat een aantal keer op
+* Gaat lunchen en neemt de trap naar beneden
+* Neemt de trap weer naar boven
+* Gaat wandelen na de lunch
+* is gefocust op werk
+* staat een paar keer op om drinken te halen 
 

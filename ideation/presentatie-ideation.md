@@ -1,4 +1,8 @@
-# Presentatie ideation
+---
+description: Dit zijn de PDF's van mijn presentatie tijdens de ideation workshop.
+---
+
+# Presentatie ideation PDF
 
 ![Afbeelding \[..\]](../.gitbook/assets/0001.jpg)
 

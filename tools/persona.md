@@ -1,8 +1,10 @@
+---
+description: De persona's representeren die verschillende segmenten van de doelgroep.
+---
+
 # Persona
 
-Hier volgt nog toelichting over de persona's.
-
-![Afbeelding \[..\]](../.gitbook/assets/persona-gebruiker.png)
+De persona's zijn gebaseerd op het onderzoek die ik verricht heb zoals interviews, gesprekken, day in the life, fly on the wall en literatuur onderzoek.
 
 ![Afbeelding \[..\]](../.gitbook/assets/persona-office-manager.png)
 

@@ -1,6 +1,10 @@
-# Context scenario
+---
+description: >-
+  De context scenario is gemaakt om de situatie uit te schetsen en te begrijpen
+  wat de problemen zijn en hoe dit opgelost kan worden.
+---
 
-Hier volgt nog een toelichting over de context scenario.
+# Context scenario
 
 ![Afbeelding \[..\]](../.gitbook/assets/context-scenario-1.0.png)
 
