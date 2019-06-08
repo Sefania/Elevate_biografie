@@ -1,6 +1,11 @@
-# Best, good and bad practices
+---
+description: >-
+  Best, good and bad practices wordt gebruikt om de concurrentie te analyseren.
+  Het is een methode om te ontdekken wat goed werkt voor de concurrentie en om
+  het ook zelf toe te passen voor je product.
+---
 
-_Hier komt nog een introductie over de methode._
+# Best, good and bad practices
 
 ## StepJockey
 

@@ -1,6 +1,12 @@
+---
+description: >-
+  Een empathy map wordt gebruikt om alle inzichten samen te vatten op een
+  gestructureerde manier.
+---
+
 # Empathy map
 
-Hier volgt nog een toelichting over de Empathy map en waar het op gebaseerd is.
+De Empathy map is gebaseerd op de gesprekken met mensen op kantoor. Mensen die ik op de gang heb gesproken, maar ook mensen die ik op de campus ben tegen gekomen.
 
 ![](../.gitbook/assets/empathy-map-1.0.png)
 
