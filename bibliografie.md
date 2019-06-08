@@ -20,6 +20,8 @@ Haines, E. \(2018, 4 oktober\). 5 Things You Need to Know About Beacon Technolog
 
 Hitters, K., Thé, K., & Mol, P. \(2017, 6 juni\). Tien tips naar gezonde gedragsverandering op het werk \| [Allesoversport.nl](http://allesoversport.nl/). Geraadpleegd op 12 maart 2019, van [https://www.allesoversport.nl/artikel/tien-tips-naar-gezonde-gedragsverandering-op-het-werk/](https://www.allesoversport.nl/artikel/tien-tips-naar-gezonde-gedragsverandering-op-het-werk/)
 
+Kim, E. \(2018, 29 november\). Persuasive design: nudging users in the right direction. Geraadpleegd 8 april 2019, van [https://uxdesign.cc/persuasive-design-nudging-users-in-the-right-direction-5af4a6f8c06f?gi=3dc578337ff2](https://uxdesign.cc/persuasive-design-nudging-users-in-the-right-direction-5af4a6f8c06f?gi=3dc578337ff2)
+
 Mol, P. \(2015a, 7 december\). Wat te veel zitten met je lichaam doet. Geraadpleegd op 19 februari 2019, van [https://www.allesoversport.nl/artikel/wat-te-veel-zitten-met-je-lichaam-doet/](https://www.allesoversport.nl/artikel/wat-te-veel-zitten-met-je-lichaam-doet/)
 
 Mol, P. \(2015b, 1 oktober\). Zo vermijd je langdurig zitten \| [Allesoversport.nl](http://Allesoversport.nl). Geraadpleegd op 18 februari 2019, van [https://www.allesoversport.nl/artikel/zo-vermijd-je-langdurig-zitten/](https://www.allesoversport.nl/artikel/zo-vermijd-je-langdurig-zitten/)
@@ -43,6 +45,8 @@ Rijksinstituut voor Volksgezondheid en Milieu. \(z.d.-b\). Trend in de toekomst.
 Rijksinstituut voor Volksgezondheid en Milieu. \(z.d.-c\). Zitgedrag. Geraadpleegd op 11 februari 2019, van [https://www.sportenbewegenincijfers.nl/kernindicatoren/zitgedrag](https://www.sportenbewegenincijfers.nl/kernindicatoren/zitgedrag)
 
 Sharot, T. \(2017, 25 september\). What Motivates Employees More: Rewards or Punishments? Geraadpleegd op 26 maart 2019, van [https://hbr.org/2017/09/what-motivates-employees-more-rewards-or-punishments?utm\_campaign=hbr](https://hbr.org/2017/09/what-motivates-employees-more-rewards-or-punishments?utm_campaign=hbr)
+
+Toxboe, A. \(2018, 9 januari\). The Power and Danger of Persuasive Design \| UX Booth. Geraadpleegd 8 april 2019, van [https://www.uxbooth.com/articles/the-power-and-danger-of-persuasive-design/](https://www.uxbooth.com/articles/the-power-and-danger-of-persuasive-design/)
 
 Van der Berg, J. D., Stehouwer, C. D. A., Bosma, H., Van der Velde, J. H. P. M., Willems, P. J. B., Savelberg, H. H. C. M., . . . Koster, A. \(2016\). Associations of total amount and patterns of sedentary behaviour with type 2 diabetes and the metabolic syndrome: The Maastricht Study. Diabetologia, 59\(4\), 709–718. [https://doi.org/10.1007/s00125-015-3861-8](https://doi.org/10.1007/s00125-015-3861-8)
 

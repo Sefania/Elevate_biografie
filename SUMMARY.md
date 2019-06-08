@@ -22,6 +22,7 @@
   * [Gedrag onderzoek](literatuur-onderzoek/gedrag-onderzoek/README.md)
     * [A day in the life](literatuur-onderzoek/gedrag-onderzoek/a-day-in-the-life.md)
     * [Persoon 1](literatuur-onderzoek/gedrag-onderzoek/persoon-1.md)
+    * [Fly on the wall](literatuur-onderzoek/gedrag-onderzoek/fly-on-the-wall.md)
   * [Design onderzoek](literatuur-onderzoek/design-onderzoek.md)
 * [Onderzoeksmethodes](onderzoeksmethodes/README.md)
   * [Empathy map](onderzoeksmethodes/empathy-map.md)

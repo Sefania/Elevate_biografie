@@ -1,4 +1,20 @@
+---
+description: >-
+  Hier ziet u afbeeldingen van de ideation sessie maar ook de resultaten van de
+  methodes die gebruikt werden tijdens de ideation sessie.
+---
+
 # Ideation team Touchwonders
+
+## Foto's ideation
+
+![](../.gitbook/assets/screenshot-2019-06-08-at-14.03.11.png)
+
+![Afbeelding \[..\]](../.gitbook/assets/screenshot-2019-06-08-at-14.07.03.png)
+
+![Afbeelding \[..\]](../.gitbook/assets/screenshot-2019-06-08-at-14.05.04.png)
+
+![Afbeelding \[..\]](../.gitbook/assets/screenshot-2019-06-08-at-14.05.41.png)
 
 ## Cover Story Vision
 
