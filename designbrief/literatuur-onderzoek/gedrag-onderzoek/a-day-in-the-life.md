@@ -6,7 +6,7 @@ description: >-
 
 # A day in the life
 
-Hier komt nog een introductie waarom deze methode is gebruikt.
+![Afbeelding 138](../../../.gitbook/assets/scannable-document-5-on-8-jun-2019-at-20_18_54.png)
 
 {% page-ref page="persoon-1.md" %}
 
