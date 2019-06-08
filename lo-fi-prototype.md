@@ -4,13 +4,13 @@ description: Dit is de eerste versie van mijn prototype toen het concept was gek
 
 # Lo-fi prototype
 
-![Afbeelding \[..\]](.gitbook/assets/leaderboard%20%281%29.png)
+![Afbeelding 95](.gitbook/assets/leaderboard%20%281%29.png)
 
-![Afbeelding \[..\]](.gitbook/assets/statistiek.png)
+![Afbeelding 96](.gitbook/assets/statistiek.png)
 
-![Afbeelding \[..\]](.gitbook/assets/challenge.png)
+![Afbeelding 97](.gitbook/assets/challenge.png)
 
-![Afbeelding \[..\]](.gitbook/assets/modal-view.png)
+![Afbeelding 98](.gitbook/assets/modal-view.png)
 
-![Afbeelding \[..\]](.gitbook/assets/punten-overzicht.png)
+![Afbeelding 99](.gitbook/assets/punten-overzicht.png)
 

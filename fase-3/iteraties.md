@@ -6,15 +6,15 @@ description: >-
 
 # Iteraties
 
-![Afbeelding \[..\]](../.gitbook/assets/2.-statistieken.png)
+![Afbeelding 117](../.gitbook/assets/2.-statistieken.png)
 
-![Afbeelding \[..\]](../.gitbook/assets/3.-challenges.png)
+![Afbeelding 118](../.gitbook/assets/3.-challenges.png)
 
-![Afbeelding \[..\]](../.gitbook/assets/7.-challenges-+-new.png)
+![Afbeelding 119](../.gitbook/assets/7.-challenges-+-new.png)
 
-![Afbeelding \[..\]](../.gitbook/assets/8.-my-profile.png)
+![Afbeelding 120](../.gitbook/assets/8.-my-profile.png)
 
-![Afbeelding \[..\]](../.gitbook/assets/9.-detail-scherm-challenge-hyungsik.png)
+![Afbeelding 121](../.gitbook/assets/9.-detail-scherm-challenge-hyungsik.png)
 
-![Afbeelding \[..\]](../.gitbook/assets/9.-detail-scherm-challenge-stormie.png)
+![Afbeelding 122](../.gitbook/assets/9.-detail-scherm-challenge-stormie.png)
 

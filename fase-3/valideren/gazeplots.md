@@ -7,23 +7,23 @@ description: >-
 
 # Gazeplots
 
-![Afbeelding \[..\]](../../.gitbook/assets/gaze-challenge%20%282%29.png)
+![Afbeelding 108](../../.gitbook/assets/gaze-challenge%20%282%29.png)
 
-![Afbeelding \[..\]](../../.gitbook/assets/gaze_challenges.png)
+![Afbeelding 109](../../.gitbook/assets/gaze_challenges.png)
 
-![Afbeelding \[..\]](../../.gitbook/assets/gazeplot_challenges%20%281%29.png)
+![Afbeelding 110](../../.gitbook/assets/gazeplot_challenges%20%281%29.png)
 
-![Afbeelding \[..\]](../../.gitbook/assets/gaze-challenge.png)
+![Afbeelding 111](../../.gitbook/assets/gaze-challenge.png)
 
-![Afbeelding \[..\]](../../.gitbook/assets/gaze-challenge%20%281%29.png)
+![Afbeelding 112](../../.gitbook/assets/gaze-challenge%20%281%29.png)
 
-![Afbeelding \[..\]](../../.gitbook/assets/gazeplot_challenges%20%282%29.png)
+![Afbeelding 113](../../.gitbook/assets/gazeplot_challenges%20%282%29.png)
 
-![Afbeelding \[..\]](../../.gitbook/assets/gazeplots_challenges.png)
+![Afbeelding 114](../../.gitbook/assets/gazeplots_challenges.png)
 
-![Afbeelding \[..\]](../../.gitbook/assets/gazeplot_challenges.png)
+![Afbeelding 115](../../.gitbook/assets/gazeplot_challenges.png)
 
-![Afbeelding \[..\]](../../.gitbook/assets/gaze_challenge.png)
+![Afbeelding 116](../../.gitbook/assets/gaze_challenge.png)
 
 
 

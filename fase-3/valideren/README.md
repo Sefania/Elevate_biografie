@@ -6,13 +6,13 @@ description: >-
 
 # Valideren
 
-![Afbeelding \[..\]](../../.gitbook/assets/leaderboard.png)
+![Afbeelding 100](../../.gitbook/assets/leaderboard.png)
 
-![Afbeelding \[..\]](../../.gitbook/assets/challenges.png)
+![Afbeelding 101](../../.gitbook/assets/challenges.png)
 
-![Afbeelding \[..\]](../../.gitbook/assets/new-challenge.png)
+![Afbeelding 102](../../.gitbook/assets/new-challenge.png)
 
-![Afbeelding \[..\]](../../.gitbook/assets/statistics.png)
+![Afbeelding 103](../../.gitbook/assets/statistics.png)
 
 
 

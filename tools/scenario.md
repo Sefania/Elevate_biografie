@@ -6,7 +6,7 @@ description: >-
 
 # Context scenario
 
-![Afbeelding \[..\]](../.gitbook/assets/context-scenario-1.0.png)
+![Afbeelding 44](../.gitbook/assets/context-scenario-1.0.png)
 
-![Afbeelding \[..\]](../.gitbook/assets/scannable-document-on-8-apr-2019-at-11_10_55.png)
+![Afbeelding 45](../.gitbook/assets/scannable-document-on-8-apr-2019-at-11_10_55.png)
 
