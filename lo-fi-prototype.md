@@ -4,7 +4,7 @@ description: Dit is de eerste versie van mijn prototype toen het concept was gek
 
 # Lo-fi prototype
 
-![Afbeelding \[..\]](.gitbook/assets/leaderboard.png)
+![Afbeelding \[..\]](.gitbook/assets/leaderboard%20%281%29.png)
 
 ![Afbeelding \[..\]](.gitbook/assets/statistiek.png)
 

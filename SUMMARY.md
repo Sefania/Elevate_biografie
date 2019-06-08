@@ -43,6 +43,7 @@
 * [Lo-fi prototype](lo-fi-prototype.md)
 * [Fase 3](fase-3/README.md)
   * [Valideren](fase-3/valideren/README.md)
+    * [Heatmaps](fase-3/valideren/heatmaps.md)
     * [Gazeplots](fase-3/valideren/gazeplots.md)
   * [Iteraties](fase-3/iteraties.md)
   * [Hi-fi prototype](fase-3/hi-fi-prototype.md)
