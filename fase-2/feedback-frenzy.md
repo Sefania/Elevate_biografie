@@ -1,3 +1,9 @@
+---
+description: >-
+  Hier ziet u de poster van de feedback frenzy en de feedback die ik heb
+  gekregen van de studenten.
+---
+
 # Feedback Frenzy
 
 ![Afbeelding 87](../.gitbook/assets/feedback-frenzy.jpg)
