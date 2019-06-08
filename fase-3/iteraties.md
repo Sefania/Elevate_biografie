@@ -6,17 +6,9 @@ description: >-
 
 # Iteraties
 
-![Afbeelding \[..\]](../.gitbook/assets/1.-leaderboard.png)
-
 ![Afbeelding \[..\]](../.gitbook/assets/2.-statistieken.png)
 
 ![Afbeelding \[..\]](../.gitbook/assets/3.-challenges.png)
-
-![Afbeelding \[..\]](../.gitbook/assets/4.1-new-challenge.png)
-
-![Afbeelding \[..\]](../.gitbook/assets/5.-choose-colleague.png)
-
-![Afbeelding \[..\]](../.gitbook/assets/6.1-start-challenge.png)
 
 ![Afbeelding \[..\]](../.gitbook/assets/7.-challenges-+-new.png)
 

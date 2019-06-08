@@ -79,7 +79,7 @@ Er zit geen uitdaging in de app. Wat de applicatie wel biedt aan zijn gebruikers
 
 Bron: Pedometer++ app
 
-![Afbeelding \[..\]](../.gitbook/assets/best-good-and-bad-practices.png)
+![Afbeelding 36](../.gitbook/assets/best-good-and-bad-practices.png)
 
 _Hier volgt nog een toelichting over de matrix._
 

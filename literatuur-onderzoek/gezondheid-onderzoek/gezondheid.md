@@ -6,17 +6,17 @@ description: >-
 
 # Objectively measured total and occupational sedentary time in three work settings
 
-![Afbeelding 24](../../.gitbook/assets/scannable-document-on-22-mar-2019-at-14_51_08.png)
+![Afbeelding 27](../../.gitbook/assets/scannable-document-on-22-mar-2019-at-14_51_08.png)
 
-![Afbeelding 25](../../.gitbook/assets/scannable-document-2-on-22-mar-2019-at-14_51_08.jpg)
+![Afbeelding 28](../../.gitbook/assets/scannable-document-2-on-22-mar-2019-at-14_51_08.jpg)
 
-![Afbeelding 26](../../.gitbook/assets/scannable-document-3-on-22-mar-2019-at-14_51_08.jpg)
+![Afbeelding 29](../../.gitbook/assets/scannable-document-3-on-22-mar-2019-at-14_51_08.jpg)
 
-![Afbeelding 27](../../.gitbook/assets/scannable-document-4-on-22-mar-2019-at-14_51_08.png)
+![Afbeelding 30](../../.gitbook/assets/scannable-document-4-on-22-mar-2019-at-14_51_08.png)
 
-![Afbeelding 28](../../.gitbook/assets/scannable-document-5-on-22-mar-2019-at-14_51_08.jpg)
+![Afbeelding 31](../../.gitbook/assets/scannable-document-5-on-22-mar-2019-at-14_51_08.jpg)
 
-![Afbeelding 29](../../.gitbook/assets/scannable-document-6-on-22-mar-2019-at-14_51_08.png)
+![Afbeelding 32](../../.gitbook/assets/scannable-document-6-on-22-mar-2019-at-14_51_08.png)
 
 
 
