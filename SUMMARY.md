@@ -40,6 +40,7 @@
     * [Concepten](fase-2/ideation/concepten/README.md)
       * [Schetsen](fase-2/ideation/concepten/schetsen.md)
   * [Feedback Frenzy](fase-2/feedback-frenzy.md)
+  * [Survey](fase-2/survey.md)
   * [Lo-fi prototype](fase-2/lo-fi-prototype.md)
 * [Fase 3](fase-3/README.md)
   * [Valideren](fase-3/valideren/README.md)
