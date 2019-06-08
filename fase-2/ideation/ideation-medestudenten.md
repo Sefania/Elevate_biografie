@@ -1,3 +1,7 @@
+---
+description: Hier ziet u foto's van de ideation sessie en ook de resultaten van de sessie.
+---
+
 # Ideation medestudenten
 
 ![Afbeelding 49](../../.gitbook/assets/screenshot-2019-06-08-at-14.07.34.png)
