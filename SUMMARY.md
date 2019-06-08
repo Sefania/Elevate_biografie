@@ -32,6 +32,7 @@
   * [Tools](designbrief/tools/README.md)
     * [Context scenario](designbrief/tools/scenario.md)
     * [Persona](designbrief/tools/persona.md)
+    * [Programma van Eisen](designbrief/tools/programma-van-eisen.md)
 * [Fase 2](fase-2/README.md)
   * [Ideation](fase-2/ideation/README.md)
     * [Ideation medestudenten](fase-2/ideation/ideation-medestudenten.md)
