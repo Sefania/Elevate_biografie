@@ -16,6 +16,7 @@
     * [Hoeveel moet je bewegen volgens de beweegrichtlijnen?](literatuur-onderzoek/gezondheid-onderzoek/hoeveel-moet-je-bewegen-volgens-de-beweegrichtlijnen.md)
     * [Get up, stand up: evidence on sedentary working shows employees need to get moving](literatuur-onderzoek/gezondheid-onderzoek/get-up-stand-up-evidence-on-sedentary-working-shows-employees-need-to-get-moving.md)
   * [Technologie onderzoek](literatuur-onderzoek/technologie-onderzoek/README.md)
+    * [Onderzoeksvragen: technologie](literatuur-onderzoek/technologie-onderzoek/onderzoeksvragen-technologie.md)
     * [Vragen aan de developer van Elevate](literatuur-onderzoek/technologie-onderzoek/gesprek-met-developer.md)
     * [Beacon onderzoek](literatuur-onderzoek/technologie-onderzoek/beacon-onderzoek.md)
   * [Gedrag onderzoek](literatuur-onderzoek/gedrag-onderzoek/README.md)
