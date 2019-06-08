@@ -1,6 +1,6 @@
 # Schetsen
 
-Dit zijn de schetsen van de concepten
+Hier volgt nog een toelichting over de schetsen.
 
 ![Afbeelding 81](../../../.gitbook/assets/schets-1.0-ar.png)
 
