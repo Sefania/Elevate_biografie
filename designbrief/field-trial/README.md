@@ -4,9 +4,11 @@ Ik wil de huidige app van Elevate testen bij de doelgroep. Het is namelijk nog n
 
 Ik heb een aantal gebruikers gevonden die het heel graag willen testen. De gebruikers hebben allemaal een kantoorbaan. Ze werken niet bij dezelfde bedrijf, maar werken wel in dezelfde deelpand dus ze kennen elkaar. Voor de field trial heb ik geen voorselectie gedaan, omdat iedereen welkom is om de app te testen. Zie afbeelding 141 ****voor een screenshot van de app met de testers.
 
-![Afbeelding 141](../../.gitbook/assets/screenshot_leaderboard.PNG)
-
 De gebruikers hebben de applicatie voor ongeveer 3 weken gebruikt daarna zijn ze geïnterviewd over hun ervaring met de applicatie. Aan de gebruikers is gevraagd wat ze vinden van de applicatie, of ze het willen gebruiken in de huidige versie en of er dingen zijn die zij graag anders hadden gezien.
+
+{% embed url="https://vimeo.com/343172702" %}
+
+
 
 {% page-ref page="field-trial-interviews/" %}
 

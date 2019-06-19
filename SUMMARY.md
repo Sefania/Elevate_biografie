@@ -19,6 +19,7 @@
       * [Onderzoeksvragen: technologie](designbrief/literatuur-onderzoek/technologie-onderzoek/onderzoeksvragen-technologie.md)
       * [Vragen aan de developer van Elevate](designbrief/literatuur-onderzoek/technologie-onderzoek/gesprek-met-developer.md)
       * [Beacon onderzoek](designbrief/literatuur-onderzoek/technologie-onderzoek/beacon-onderzoek.md)
+      * [Trend in de toekomst](designbrief/literatuur-onderzoek/technologie-onderzoek/trend-in-de-toekomst.md)
     * [Gedrag onderzoek](designbrief/literatuur-onderzoek/gedrag-onderzoek/README.md)
       * [A day in the life](designbrief/literatuur-onderzoek/gedrag-onderzoek/a-day-in-the-life.md)
       * [Persoon 1](designbrief/literatuur-onderzoek/gedrag-onderzoek/persoon-1.md)
