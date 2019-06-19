@@ -16,6 +16,7 @@
       * [Hoeveel moet je bewegen volgens de beweegrichtlijnen?](designbrief/literatuur-onderzoek/gezondheid-onderzoek/hoeveel-moet-je-bewegen-volgens-de-beweegrichtlijnen.md)
       * [Get up, stand up: evidence on sedentary working shows employees need to get moving](designbrief/literatuur-onderzoek/gezondheid-onderzoek/get-up-stand-up-evidence-on-sedentary-working-shows-employees-need-to-get-moving.md)
       * [Bewegen tegen een burn-out of stress](designbrief/literatuur-onderzoek/gezondheid-onderzoek/bewegen-tegen-een-burn-out-of-stress.md)
+      * [Traplopen, bewegen en krachtoefening in één](designbrief/literatuur-onderzoek/gezondheid-onderzoek/traplopen-bewegen-en-krachtoefening-in-een.md)
     * [Technologie onderzoek](designbrief/literatuur-onderzoek/technologie-onderzoek/README.md)
       * [Onderzoeksvragen: technologie](designbrief/literatuur-onderzoek/technologie-onderzoek/onderzoeksvragen-technologie.md)
       * [Vragen aan de developer van Elevate](designbrief/literatuur-onderzoek/technologie-onderzoek/gesprek-met-developer.md)
