@@ -10,7 +10,7 @@ description: >-
 
 {% page-ref page="technologie-onderzoek/onderzoeksvragen-technologie.md" %}
 
-{% page-ref page="gedrag-onderzoek/" %}
+{% page-ref page="../gedrag-onderzoek/" %}
 
 {% page-ref page="design-onderzoek.md" %}
 
