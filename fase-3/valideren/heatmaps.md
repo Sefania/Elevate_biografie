@@ -6,7 +6,7 @@ description: >-
 
 # Heatmaps
 
-Zoals in **afbeelding \[..\]** te zien is focussen de testpersonen zich op hun eigen profiel foto. Daarnaast kijken ze het langst naar de segmented control button 'statistieken'.
+Zoals in afbeelding 104 te zien is focussen de testpersonen zich op hun eigen profiel foto. Daarnaast kijken ze het langst naar de segmented control button 'statistieken'.
 
 ![Afbeelding 104](../../.gitbook/assets/heatmap_leaderboard%20%281%29.png)
 

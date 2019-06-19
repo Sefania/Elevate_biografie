@@ -1,5 +1,5 @@
 ---
-description: 'Dit is de laatste versie van mijn prototype. [LINK]'
+description: 'Dit is de laatste versie van mijn prototype. https://invis.io/9KS645QVY6C'
 ---
 
 # Hi-fi prototype
