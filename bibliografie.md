@@ -8,6 +8,8 @@ Apple. \(z.d.-b\). floorsAscended - CMPedometerData \| Apple Developer Documenta
 
 Bates, C. \(2009, 12 oktober\). Scaling new heights: Piano stairway encourages commuters to ditch the escalators. Geraadpleegd op 6 maart 2019, van [https://www.dailymail.co.uk/sciencetech/article-1218944/Scaling-new-heights-Piano-stairway-encourages-commuters-ditch-escalators.html](https://www.dailymail.co.uk/sciencetech/article-1218944/Scaling-new-heights-Piano-stairway-encourages-commuters-ditch-escalators.html)
 
+Baeten, H. \(2017, 10 juli\). Bewegen tegen een burn-out of stress. Geraadpleegd 9 maart 2019, van [https://www.allesoversport.nl/artikel/bewegen-tegen-een-burn-out-of-stress/](https://www.allesoversport.nl/artikel/bewegen-tegen-een-burn-out-of-stress/)
+
 Beck, R., & Van Brussel-Visser, F. \(2016, 14 januari\). Afvallen? Reken uit hoeveel calorieën je verbrandt. Geraadpleegd op 28 februari 2019, van [https://www.allesoversport.nl/artikel/afvallen-reken-uit-hoeveel-calorieen-je-verbrandt/](https://www.allesoversport.nl/artikel/afvallen-reken-uit-hoeveel-calorieen-je-verbrandt/)
 
 Bravata, D. M., Smith-Spangler, C., Sundaram, V., Gienger, A. L., Lin, N., Lewis, R., … Sirard, J. R. \(2007\). Using Pedometers to Increase Physical Activity and Improve Health. JAMA, 298\(19\), 2296. [https://doi.org/10.1001/jama.298.19.2296](https://doi.org/10.1001/jama.298.19.2296)
