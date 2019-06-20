@@ -23,6 +23,10 @@ StepJockey probeert hun gebruikers uit te dagen door ze challenges te geven en d
 
 Bron: [www.stepjockey.com](http://www.stepjockey.com)
 
+{% embed url="https://www.youtube.com/watch?v=GspLQzer4tE" %}
+
+
+
 ## Fitbit
 
 Fitbit is een accessoire die je om je pols draagt. Deze accessoire is verbonden aan je smartphone.
@@ -36,6 +40,10 @@ Fitbit die kan je activiteiten meten. Ze meten onder andere activiteiten, slaap,
 In de applicatie biedt fitbit dagelijkse doelen die je kan instellen voor jezelf. Daarnaast krijg je voor elke behaalde doel krijg je een badge. Ze willen ook dat je vrienden en familie uitnodigt om fitbit te gebruiken zodat je samen groep uitdagingen kan doen.
 
 Bron: [www.fitbit.com](http://www.fitbit.com)
+
+{% embed url="https://www.youtube.com/watch?v=p\_EHYZV\_Mos" %}
+
+
 
 ## Fitcoins
 
@@ -51,6 +59,10 @@ De app geeft onder andere aan hoeveel minuten je zit, beweegt en fietst. Door re
 
 Bron: [www.itsmylife24.nl](http://www.itsmylife24.nl)
 
+{% embed url="https://www.youtube.com/watch?v=t4tiHSfX270&feature=youtu.be" %}
+
+
+
 ## Stridekick
 
 Stridekick is een applicatie die je motiveert om meer te bewegen.
@@ -64,6 +76,10 @@ De app kan aangesloten worden aan verschillende devices zoals fitness trackers e
 In de app hebben ze 4 modes. Daarnaast kan je vrienden uitnodigen om mee te doen. Hiermee wordt sociale motivatie gestimuleerd. Je hebt inzichten in de data over je activiteiten. Je kan ook badges krijgen als je challenge hebt behaald.
 
 Bron: [www.stridekick.com](http://www.stridekick.com)
+
+{% embed url="https://www.youtube.com/watch?v=SoceMTHslos" %}
+
+
 
 ## Pedometer++
 
@@ -81,5 +97,5 @@ Bron: Pedometer++ app
 
 ![Afbeelding 36](../../.gitbook/assets/best-good-and-bad-practices.png)
 
-_Hier volgt nog een toelichting over de matrix._
+
 
