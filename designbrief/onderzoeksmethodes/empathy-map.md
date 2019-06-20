@@ -14,7 +14,7 @@ De known knowns zijn informatie waar we bewust van zijn en begrijpen. De known u
 
 ![](../../.gitbook/assets/knownknowns.png)
 
-#### Zie de notities gesprekken en fly on the wall dit zijn de tools die gebruikt zijn om deze methode in te vullen. 
+#### Zie de [notities gesprekken](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/gedrag-onderzoek/notities-gesprekken) en [fly on the wall](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/gedrag-onderzoek/fly-on-the-wall) dit zijn de tools die gebruikt zijn om deze methode in te vullen. Deze methode is gebruikt om te empathizen met de doelgroep.
 
 ![Afbeelding 33](../../.gitbook/assets/empathy-map-1.0.png)
 
