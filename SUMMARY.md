@@ -20,6 +20,7 @@
     * [Vragen aan de developer van Elevate](understand-and-empathize/literatuur-onderzoek/technologie-onderzoek/gesprek-met-developer.md)
     * [Beacon onderzoek](understand-and-empathize/literatuur-onderzoek/technologie-onderzoek/beacon-onderzoek.md)
     * [Trend in de toekomst](understand-and-empathize/literatuur-onderzoek/technologie-onderzoek/trend-in-de-toekomst.md)
+* [What motivates employees more: rewards or punishments?](understand-and-empathize/what-motivates-employees-more-rewards-or-punishments.md)
 * [Gebruikersonderzoek](understand-and-empathize/gedrag-onderzoek/README.md)
   * [A day in the life](understand-and-empathize/gedrag-onderzoek/a-day-in-the-life/README.md)
     * [Persoon 1](understand-and-empathize/gedrag-onderzoek/a-day-in-the-life/persoon-1.md)
