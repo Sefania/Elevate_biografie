@@ -1,4 +1,4 @@
-# Gedrag onderzoek
+# Gebruikersonderzoek
 
 ## Waarom bewegen volwassenen zo weinig?
 

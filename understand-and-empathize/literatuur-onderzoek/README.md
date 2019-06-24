@@ -12,5 +12,5 @@ description: >-
 
 {% page-ref page="../gedrag-onderzoek/" %}
 
-{% page-ref page="design-onderzoek.md" %}
+{% page-ref page="../design-onderzoek.md" %}
 

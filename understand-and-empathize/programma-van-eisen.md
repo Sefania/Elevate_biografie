@@ -4,7 +4,7 @@ description: Dit zijn de programma van eisen die ik heb opgesteld voor Elevate.
 
 # Programma van Eisen
 
-![Afbeelding 135](../../.gitbook/assets/scannable-document-7-on-8-jun-2019-at-20_18_54.png)
+![Afbeelding 135](../.gitbook/assets/scannable-document-7-on-8-jun-2019-at-20_18_54.png)
 
 ### Gebruikers eisen
 
