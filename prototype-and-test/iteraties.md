@@ -1,16 +1,14 @@
 ---
-description: >-
-  Dit zijn mijn iteraties na de feedback van de usability testing. Het zijn
-  kleine aanpassingen. De testpersonen vonden het concept namelijk heel leuk.
+description: Dit zijn andere versies van de applicatie
 ---
 
 # Iteraties
 
-![Afbeelding 117](../.gitbook/assets/2.-statistieken.png)
+![Afbeelding 117](../.gitbook/assets/2.-statistieken%20%281%29.png)
 
 ![Afbeelding 118](../.gitbook/assets/3.-challenges.png)
 
-![Afbeelding 119](../.gitbook/assets/7.-challenges-+-new.png)
+![Afbeelding 119](../.gitbook/assets/7.-challenges-+-new%20%281%29.png)
 
 ![Afbeelding 120](../.gitbook/assets/8.-my-profile.png)
 
